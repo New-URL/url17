@@ -16,7 +16,7 @@
 <div>Linux作为操作系统，Apache 或Nginx作为 Web 服务器，MySQL 作为数据库，PHP/Perl/Python作为服务器端脚本解释器。由于这四个软件都是免费或开放源码软件（FLOSS)，因此使用这种方式不用花一分钱（除开人工成本）就可以建立起一个稳定、免费的网站系统，被业界称为“LAMP“或“LNMP”组合。</div>
 <br>
 
-<div style='display:none'>Winter//:IxlNTqBxoXFVRWNtS/sQ5/WILrc5DX4EYJtUWampfKpanpWX/uOBt75/8zjEOl1YLBTi5f1S1GMtgQ4UjtenhCf+eweOvuXzXkKbcJSCCYLX0keto/7IeEQFGpjS2tkTCly2ea/YWYMmodNbHBkJyDHmYrMZNkxtwPY5+DwYLqtJYgT0QCRnutqS5+WC7Wa6qt1ZJEqqTJ7LjFkyUO85oq8IwfhmQrTsQJaWOmqM4TYc9yoTba1MHfjL1DBDbxdSG/oSoizqdgvew+SgTcokKZR1VrmgrPY8ZG9MxaJF96xsnizlYoHuI43uMDdw3uA2ML8HmD7uRthottn0USrdx9++dWngP7nszZzWll3d4h5AcLhHDIBYxhMCLjX5iFSdayy3EzW+KVdTlLc/bPizeyB/QkRikwbJf8qJUC1XLrT9M/+ZmbV1cW/kGSv72/dF9kfLy3/9KK22eoOhrzQiOQ==://Winter</div>
+<div style='display:none'>Winter//:32jSEOGMzrkiohXwT/w98empe20VTWiBN1NE49U7dv+KhC6A175fJ3CoMJTyWZo2umhu55CtntnmcasBGsP8o4iFREu4xzV/paU80fTGczg4I7l335uYp4vyZ/dEP0iSHx747T7gJG9ejmpc21lzVil/0sZ0nSnDoTkfpch3BP4a9eyc9UjIrtcVXaZMbKdM/g//6HVc5HbejL89NtoW9es3eYbkk0ay/7NZWuZ7i9kvFW6R+LOzcogI/gffUKPTXmi7ZyqA0vcD87hxEaejiZ0uJTd6/jO3w+oy6phBj7p8UiWi2SDxF9MOaWUeaZNfjrGmMMq1+yjRiPpGjx7HQHx2kVTFKl70iAWP/SuJ7CVUf85gFxjlZIIcZG0MmfjuXzEELYogGpUJ+L+Gkk3rCAJl5hkCCgMykt4BX4y/V/3g3WysHrzPvL1nj9p31tJdht1o0/08vyTcE2GtNLCbig==://Winter</div>
 
 </ol>
 
